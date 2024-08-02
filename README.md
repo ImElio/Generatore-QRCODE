@@ -1,4 +1,4 @@
-![Alt Text](assets/img/qrcode_banner_readme.png)
+![Alt Text](src/assets/img/qrcode_banner_readme.png)
 
 # Generatore-QRCODE
 
