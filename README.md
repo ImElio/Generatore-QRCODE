@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/GZPL6gU)
+![Alt Text](assets/img/qrcode_banner_readme.png)
 
 # Generatore-QRCODE
 
